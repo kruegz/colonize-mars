@@ -1,6 +1,6 @@
 {
-  "name": "socketio_multiplayer_game",
-  "version": "1.0.0",
+  "name": "colonize-mars",
+  "version": "0.0.1",
   "description": "",
   "main": "",
   "scripts": {
@@ -10,7 +10,7 @@
     "start": "webpack && node server/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zach Krueger",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.23.1",
